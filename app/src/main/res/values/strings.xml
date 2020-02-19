@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sandbox_kotlin</string>
+    <string name="action_settings">Settings</string>
+    <plurals name="position">
+        <item quantity="zero">%d енотов</item>
+        <item quantity="one">%d енот</item>
+        <item quantity="two">%d енота</item>
+        <item quantity="few">%d енота</item>
+        <item quantity="many">%d енотов</item>
+    </plurals>
+</resources>
