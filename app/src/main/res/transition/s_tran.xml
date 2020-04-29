@@ -5,4 +5,7 @@
         android:duration="4000"
         android:fadingMode="fade_out" />
     <changeBounds />
+    <fade
+        android:duration="4000"
+        android:fadingMode="fade_in" />
 </transitionSet>
